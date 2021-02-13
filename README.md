@@ -1,5 +1,5 @@
 
-Front-end developer @Sistema Jornal do Commercio de Comunicação
+Back-end developer @Mesa Inc.
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/svg/187/187185.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/187/187207.svg" />][instagram]
