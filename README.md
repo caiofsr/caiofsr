@@ -8,21 +8,20 @@ Back-end developer [@Mesa Inc.][mesa]
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=caiofsr&count_private=true&show_icons=true&theme=radical" />
-
-</details>
-
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-[instagram]: https://www.instagram.com/caiofsr1
-[linkedin]: https://www.linkedin.com/in/caiofsr/
-[mesa]: https://www.mesainc.com.br/home
+<p align="center">
+  <a href="https://github.com/oaraujocesar/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=oaraujocesar&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/oaraujocesar/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaraujocesar&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
