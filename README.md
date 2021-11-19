@@ -5,11 +5,11 @@ Back-end developer [@Mesa Inc.][mesa]
 <br />
 
 <p align="center">
-  <a href="https://github.com/oaraujocesar/github-readme-stats">
+  <a href="https://github.com/caiofsr/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=oaraujocesar&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=caiofsr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
   
@@ -17,7 +17,7 @@ Back-end developer [@Mesa Inc.][mesa]
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaraujocesar&&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsr&&layout=compact&theme=dark"
     />
   </a>
 </p>
