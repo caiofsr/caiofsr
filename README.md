@@ -13,7 +13,7 @@ Back-end developer [@Mesa Inc.][mesa]
     />
   </a>
   
-  <a href="https://github.com/oaraujocesar/github-readme-stats">
+  <a href="https://github.com/caiofsr/github-readme-stats">
     <img
       align="center"
       height="165"
