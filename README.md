@@ -22,4 +22,4 @@ Back-end developer [Thoughtworks][tw]
   </a>
 </p>
 
-[tw]: https://www.thoughtworks.com/pt-br
+[tw]: _https://www.thoughtworks.com/pt-br
