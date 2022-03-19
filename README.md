@@ -1,5 +1,5 @@
 
-Developer Consultant at <a href="https://www.thoughtworks.com">Thoughtworks</a>
+Developer Consultant at <a href="https://www.thoughtworks.com" target="_blank">Thoughtworks</a>
 
 <br />
 <br />
