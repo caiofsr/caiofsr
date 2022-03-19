@@ -1,5 +1,5 @@
 
-Back-end developer [Thoughtworks][tw]
+Developer Consultant at <a href="https://www.thoughtworks.com">Thoughtworks</a>
 
 <br />
 <br />
@@ -21,5 +21,3 @@ Back-end developer [Thoughtworks][tw]
     />
   </a>
 </p>
-
-[tw]: _https://www.thoughtworks.com/pt-br
