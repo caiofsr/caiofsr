@@ -1,5 +1,5 @@
 
-Back-end developer [@Mesa Inc.][mesa]
+Back-end developer [Thoughtworks][tw]
 
 <br />
 <br />
@@ -22,4 +22,4 @@ Back-end developer [@Mesa Inc.][mesa]
   </a>
 </p>
 
-[mesa]: https://www.mesainc.com.br/home
+[tw]: https://www.thoughtworks.com/pt-br
